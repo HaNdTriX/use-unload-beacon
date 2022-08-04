@@ -9,6 +9,10 @@
   "files": [
     "dist/"
   ],
+  "keywords": [
+    "react",
+    "unload"
+  ],
   "repository": "https://github.com/HaNdTriX/use-unload-beacon",
   "author": "Henrik Wenz <henrik.wenz@gmail.com>",
   "license": "MIT",

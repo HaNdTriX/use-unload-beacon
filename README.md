@@ -42,6 +42,12 @@ or
 
 **Type:** `(event: Event) => BodyInit`
 
+## Docs
+
+- [Browser Support](https://caniuse.com/?search=sendbeacon)
+- [`navigator.sendBeacon`](https://developer.mozilla.org/de/docs/Web/API/Navigator/sendBeacon)
+- [`unload_event`](https://developer.mozilla.org/en-US/docs/Web/API/Window/unload_event)
+
 ## License
 
 The MIT License.
