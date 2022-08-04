@@ -1,6 +1,6 @@
 {
   "name": "use-unload-beacon",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React hook that sends an HTTP POST request containing a small amount of data when a page gets fully unloaded.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
